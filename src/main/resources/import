@@ -1,0 +1,2 @@
+INSERT INTO rn_escan.area VALUES ('1','1','1');
+INSERT INTO rn_escan.area VALUES ('2','1','1');
